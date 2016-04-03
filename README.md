@@ -1,11 +1,3 @@
-title: Docker Workshop @ Hackafe
-author:
-  name: Rangel Ivanov
-  twitter: mad_archer_
-  github: https://github.com/ironsteel
-output: kube.html
-
---
 ## 
 <img src="https://insights.ubuntu.com/wp-content/uploads/8d9c/og_img.jpg"  heigth="100%" width="100%">
 
